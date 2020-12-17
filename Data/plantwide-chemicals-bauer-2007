@@ -1,0 +1,12 @@
+File: plantwide-chemicals-bauer-2007.csv
+Type of measurements: 9 temperature, 1 level
+Industry: Chemicals
+Data length: 2881
+Sampling rate: 20 seconds
+Company: Eastman chemical company
+Normalised: No
+Contributor: Margret Bauer, University of Pretoria, South Africa
+Year of origin: 2007
+First appearance in publication: Bauer, M., Cox, J. W., Caveness, M. H., Downs, J. J., & Thornhill, N. F. (2007). Nearest neighbors methods for root cause analysis of plantwide disturbances. Industrial & Engineering Chemistry Research, 46(18), 5977-5984.
+Description: This is Case Study 1 from Bauer et al. which is a periodic, non-sinusoidal oscillation of around 20 minutes that affected measurements around a distillation column. 
+ 

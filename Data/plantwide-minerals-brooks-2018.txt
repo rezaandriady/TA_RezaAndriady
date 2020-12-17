@@ -1,0 +1,11 @@
+File: plant-wide-minerals-brooks-2018.csv
+Type of measurements: 2 levels, 9 flows,  concentrations
+Industry: Minerals processing
+Data length: 6029
+Company: BluESP
+Normalised: No
+Contributor: Kevin S. Brooks, BluESP, South Africa
+Year of origin: 2016
+First appearance in publication: Brooks, K. S., & Bauer, M. (2018). Sensor validation and reconstruction: Experiences with commercial technology. Control Engineering Practice, 77, 28-40.
+Description: This plant-wide data set shows the failure of composition sensors. It was used to estimate the missing data from other sensor information.
+ 

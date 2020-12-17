@@ -1,0 +1,10 @@
+File: plantwide-minerals-lindner-2018.csv
+Type of measurements: floatation plant, 28 variables
+Industry: Minerals processing
+Data length: 560
+Sampling rate: 10 seconds
+Company: Anglo American PLC
+Contributor: Brian Lindner, Stellenbosch University, South Africa
+Year of origin: 2017
+First appearance in publication: Lindner, B., Chioua, M., Groenewald, J.W.D., Auret, L. and Bauer. M., 2018. Diagnosis of oscillations in an industrial minerals process using transfer entropy and nonlinearity index, Safe Process 2018, Krakow, Poland. 
+Description: This data contains a plantwide oscillation in a majority of the measurements with an oscillation period of 465 seconds. 

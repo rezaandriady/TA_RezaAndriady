@@ -1,4 +1,4 @@
-# TA_RezaAndriady
+On-The-Fly Semi-Supervised Learning Fault Detection
 
 Program fault detection terdapat didalam folder Program/"MQTT Publisher" dan Program/"Main dan GUI", program pada "MQTT Publisher" berfungsi untuk mengirimkan data melalui MQTT sedangkan program pada "Main dan GUI" berfungsi untuk menerima data, mengolah, dan menampilkan data.
 

@@ -2,7 +2,7 @@ On-The-Fly Semi-Supervised Learning Fault Detection
 
 Program fault detection terdapat didalam folder Program/"MQTT Publisher" dan Program/"Main dan GUI", program pada "MQTT Publisher" berfungsi untuk mengirimkan data melalui MQTT sedangkan program pada "Main dan GUI" berfungsi untuk menerima data, mengolah, dan menampilkan data.
 
-Untuk menjalankan program, maka:
+Untuk menjalankan program:
 1. IP dan Port pada program "MQTT Publisher"/Publisher.py harus disesuaikan dengan IP pengguna dan Port pengguna yang digunakan untuk pengiriman data menggunakan MQTT.
 2. Sesuaikan jumlah kolom yang akan dikirimkan oleh Publisher (variabel + label)
 2. Run "Main dan GUI"/main.py
